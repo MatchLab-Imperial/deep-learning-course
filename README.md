@@ -15,3 +15,12 @@ which when clicked takes you to the Colaboratory website.
 Colaboratory provides free GPU, so you can modify part of the tutorials and retrain the models to test your modifications. Specifically, you get 12 hours of continuous access to a k80 GPU. When those 12 hours are over, you can connect to another machine. This [Notebook](https://colab.research.google.com/notebooks/gpu.ipynb#scrollTo=3IEVK-KFxi5Z) shows a comparison of the CPU vs GPU speed up in Colaboratory. The Hardware accelerator can be selected in Edit->Notebook Settings. There is also the option of using Tensor Processor Units (TPUs), but the tutorials will only use the GPU. Here is an [example notebook](https://colab.research.google.com/notebooks/tpu.ipynb) using TPUs.   
 
 We will update the repository during the course with new tutorials.
+
+## Links to the notebooks
+Sometimes the notebooks do not render correctly in GitHub. You can access directly the notebook in the Colab environment using the following links.
+### Week 1
+  * [Python part 1](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/week01_part1_Python.ipynb)
+  * [Python part 2](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/week01_part2_Python.ipynb)
+  * [Keras](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/week01_part3_Keras.ipynb)
+### Week 2
+  * [Network Training](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/week02_NetworkTraining.ipynb)
