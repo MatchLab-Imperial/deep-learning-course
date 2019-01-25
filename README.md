@@ -24,3 +24,6 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
   * [Keras](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/week01_part3_Keras.ipynb)
 ### Week 2
   * [Network Training](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/week02_NetworkTraining.ipynb)
+
+### Week 3
+  * [Introduction to CNNs](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/week03_part1_CNN_Introduction.ipynb)
