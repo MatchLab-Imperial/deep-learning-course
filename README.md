@@ -27,3 +27,7 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
 
 ### Week 3
   * [Introduction to CNNs](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/week03_part1_CNN_Introduction.ipynb)
+  * [Evaluation Metrics](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/week03_part2_evaluation_measures.ipynb)
+    
+### Week 4
+  * [CNN Architectures](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/week04_CNN_architectures.ipynb)
