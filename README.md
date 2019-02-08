@@ -31,3 +31,7 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
     
 ### Week 4
   * [CNN Architectures](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/week04_CNN_architectures.ipynb)
+  
+### Week 5
+  * [Recurrent Neural Networks part 1](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/week05_RNN_part1.ipynb)
+  * [Recurrent Neural Networks part 2](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/week05_RNN_part2.ipynb)
