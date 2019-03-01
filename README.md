@@ -35,12 +35,14 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
 ### Week 5
   * [Recurrent Neural Networks part 1](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/week05_RNN_part1.ipynb)
   * [Recurrent Neural Networks part 2](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/week05_RNN_part2.ipynb)
-  
-  
+    
 ### Week 6
   * [Autoencoders part 1](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/week06_part1_Autoencoders.ipynb)
   * [Autoencoders (Denoising) part 2](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/week06_part2_Autoencoders_Denoising.ipynb)
   
-  
+  ### Week 6
+  * [Variational Autoencoders and GANs](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/week07_part1_VAE_GAN.ipynb)
+  * [Conditional GANs](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/week07_part2_cGANs.ipynb)
+    
   ### Week 8
  * [Deep Reinforcement Learning part 1](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/week08_Deep_Reinforcement_Learning_part1.ipynb)
