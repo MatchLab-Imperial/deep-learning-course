@@ -46,3 +46,6 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
     
   ### Week 8
  * [Deep Reinforcement Learning part 1](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/week08_Deep_Reinforcement_Learning_part1.ipynb)
+ 
+ ### Week 9
+ * [Deep Reinforcement Learning part 2](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/week09_Deep_Reinforcement_Learning_part2.ipynb)
