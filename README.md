@@ -18,9 +18,9 @@ We will update the repository during the course with new tutorials.
 
 ## Links to the notebooks
 Sometimes the notebooks do not render correctly in GitHub. You can access directly the notebook in the Colab environment using the following links.
-### Turotial 1
-  * [Python part 1](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/week01_part1_Python.ipynb)
-  * [Python part 2](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/week01_part2_Python.ipynb)
-  * [Keras](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/week01_part3_Keras.ipynb)
-### Turorial 2
-  * [Introduction to CNNs](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/week02_NetworkTraining.ipynb)
+### Tutorial 1
+  * [Python part 1](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/2020_01_part1_Python.ipynb)
+  * [Python part 2](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/2020_01_part2_Python.ipynb)
+  * [Keras](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/2020_01_part3_Keras.ipynb)
+### Tutorial 2
+  * [Introduction to CNNs](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/2020_02_CNN_Introduction.ipynb)
