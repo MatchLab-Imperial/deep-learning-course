@@ -27,6 +27,9 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
 ### Tutorial 3
   * [Evaluation Measures](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/2020_03_Evaluation_Measures.ipynb)
 ### Tutorial 4
-  * [Network Training](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/2020_04_Network_Training.ipynb)
+  [04/02/20] Updated the tutorial removing the lr_normalizer line in the model_scan function when using talos, which was scaling the learning rate
+
+  * [Network Training](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/2020_04_Network_Training.ipynb) 
+  
 ### Tutorial 5
   * [Introduction to Convolutional Neural Networks Architectures](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/2020_05_CNN_architectures.ipynb)
