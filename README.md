@@ -33,3 +33,6 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
   
 ### Tutorial 5
   * [Introduction to Convolutional Neural Networks Architectures](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/2020_05_CNN_architectures.ipynb)
+  
+### Tutorial 6
+  * [Recurrent Neural Networks (RNN)](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/2020_06_RNN.ipynb)
