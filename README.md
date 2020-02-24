@@ -36,3 +36,9 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
   
 ### Tutorial 6
   * [Recurrent Neural Networks (RNN)](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/2020_06_RNN.ipynb)
+  
+### Tutorial 7
+  * [Autoencoders](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/2020_07_Autoencoders.ipynb)
+  
+  
+
