@@ -32,7 +32,7 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
   * [Network Training](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/2020_04_Network_Training.ipynb) 
   
 ### Tutorial 5
-[28/03/20] Removed Task 2, Resnet coding and training, from tutorial.
+[28/03/20] Removed Task 2, ResNet coding and training, from tutorial.
 
   * [Introduction to Convolutional Neural Networks Architectures](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/2020_05_CNN_architectures.ipynb)
   
