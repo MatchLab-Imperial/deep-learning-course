@@ -33,6 +33,7 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
   
 ### Tutorial 5
 [28/02/20] Removed Task 2, ResNet coding and training, from tutorial.
+
 [1/03/20] Moved back to SGD optimiser instead of Adam in Tutorial 5.
 
   * [Introduction to Convolutional Neural Networks Architectures](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/2020_05_CNN_architectures.ipynb)
