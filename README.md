@@ -43,6 +43,9 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
   
 ### Tutorial 7
   * [Autoencoders](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/2020_07_Autoencoders.ipynb)
+ 
+### Tutorial 8
+  * [VAE-GAN](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/2020_08_VAE_GAN.ipynb)
   
   
 
