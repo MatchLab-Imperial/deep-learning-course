@@ -47,5 +47,9 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
 ### Tutorial 8
   * [VAE-GAN](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/2020_08_VAE_GAN.ipynb)
   
+### Tutorial 9
+  * [Reinforcement Learning]
+  (https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/2020_09_RL.ipynb)
+  
   
 
