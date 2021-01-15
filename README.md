@@ -17,4 +17,9 @@ Colaboratory provides free GPU, so you can modify part of the tutorials and retr
 We will update the repository during the course with new tutorials.
 
 ## Links to the notebooks
-To be updated. 
+Sometimes the notebooks do not render correctly in GitHub. You can access directly the notebook in the Colab environment using the following links.
+### Week 1
+  * [Python part 1](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/01_part1_Python.ipynb)
+  * [Python part 2](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/01_part2_Python.ipynb)
+  * [Keras](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/01_part3_Keras.ipynb)
+
