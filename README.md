@@ -24,4 +24,7 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
   
   [18/01/21] Added new section about downloading data from Colab and also saving data to Google Drive.
   * [Keras](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/01_part3_Keras.ipynb)
+  
+### Week 2
+  * [Introduction to CNNs](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/02_CNN_Introduction.ipynb)
 
