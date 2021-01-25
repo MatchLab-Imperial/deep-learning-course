@@ -26,5 +26,6 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
   * [Keras](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/01_part3_Keras.ipynb)
   
 ### Week 2
+[25.01.2021] Task 1: 1D-NN total number of epochs changed from 10 to 20.
   * [Introduction to CNNs](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/02_CNN_Introduction.ipynb)
 
