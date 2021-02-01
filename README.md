@@ -27,6 +27,9 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
   
 ### Week 2
 [25.01.2021] Task 1: 1D-NN total number of epochs changed from 10 to 20.
+[01.02.2021] Changed nomenclature. Note that in this tutorial, we use test data as our validation set. 
+
+[01.02.2021] Task 2: Study training and validation curves vs the number of training <s>iterations</s> epochs
   * [Introduction to CNNs](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/02_CNN_Introduction.ipynb)
 
 ### Week 3
