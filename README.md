@@ -29,3 +29,6 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
 [25.01.2021] Task 1: 1D-NN total number of epochs changed from 10 to 20.
   * [Introduction to CNNs](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/02_CNN_Introduction.ipynb)
 
+### Week 3
+  * [Network Training](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/03_Network_Training.ipynb)
+
