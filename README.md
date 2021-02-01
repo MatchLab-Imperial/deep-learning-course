@@ -34,5 +34,6 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
   * [Introduction to CNNs](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/02_CNN_Introduction.ipynb)
 
 ### Week 3
+[01.02.2021] Clarification of data splits in Task 1.
   * [Network Training](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/03_Network_Training.ipynb)
 
