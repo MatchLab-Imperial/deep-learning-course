@@ -38,5 +38,5 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
   * [Network Training](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/03_Network_Training.ipynb)
   
 ### Week 4
-  * [Common CNN Architectures](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/05_Common_CNN_architectures.ipynb)
+  * [Common CNN Architectures](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/04_Common_CNN_architectures.ipynb)
 
