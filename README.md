@@ -41,3 +41,5 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
 [09.02.2021] Report training <s>loss</s> and validation accuracy curves.
   * [Common CNN Architectures](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/04_Common_CNN_architectures.ipynb)
 
+### Week 5
+  * [RNN](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/05_RNN.ipynb)
