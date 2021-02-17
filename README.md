@@ -39,6 +39,7 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
   
 ### Week 4
 [09.02.2021] Report training <s>loss</s> and validation accuracy curves.
+[17.02.2021] Added restore_best_weights=True to EarlyStopping.
   * [Common CNN Architectures](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/04_Common_CNN_architectures.ipynb)
 
 ### Week 5
