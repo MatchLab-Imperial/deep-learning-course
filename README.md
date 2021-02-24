@@ -47,6 +47,9 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
 
 ### Week 5
 [16.02.2021] Changed x_test to x_test_char and seq_length to seq_char_length in two lines of Task 3
+
+[24.02.2021] Task 1 rephrasing
+
   * [RNN](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/05_RNN.ipynb)
 
 ### Week 6
