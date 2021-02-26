@@ -35,6 +35,7 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
 
 ### Week 3
 [01.02.2021] Clarification of data splits in Task 1.
+[26.02.2021] Changed two "best validation results" to "best validation accuracy" in Task 1.
   * [Network Training](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/03_Network_Training.ipynb)
   
 ### Week 4
