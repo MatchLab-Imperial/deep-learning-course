@@ -55,3 +55,8 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
 
 ### Week 6
   * [Autoencoders](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/06_Autoencoders.ipynb)
+
+### Week 7
+  * [VAE-GAN](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/07_VAE_GAN.ipynb)
+
+
