@@ -60,4 +60,7 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
 [08.03.2021] argmin to argmax in VAE equation
   * [VAE-GAN](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/07_VAE_GAN.ipynb)
 
+### Week 8
+  * [RL](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/08_RL.ipynb)
+
 
