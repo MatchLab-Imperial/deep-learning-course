@@ -21,9 +21,7 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
 ### Week 1
   * [Python part 1](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/01_part1_Python.ipynb)
   * [Python part 2](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/01_part2_Python.ipynb)
-  
-  [18/01/21] Added new section about downloading data from Colab and also saving data to Google Drive.
-  * [Keras](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/01_part3_Keras.ipynb)
+  * [Pytorch](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/01_part3_Pytorch.ipynb)
   
 ### Week 2
 [25.01.2021] Task 1: 1D-NN total number of epochs changed from 10 to 20.
