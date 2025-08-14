@@ -1,6 +1,6 @@
 # Deep Learning Course
 Welcome! Here we will upload the different tutorials for the Deep Learning course. 
-We will use Python and [Jupyter Notebook](https://jupyter.org/), and [Keras](https://keras.io/) as the deep learning framework.
+We will use Python and [Jupyter Notebook](https://jupyter.org/), and [Pytorch](https://pytorch.org/) as the deep learning framework.
 Also, the tutorials use [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb), which is a free Jupyter notebook environment that runs in the cloud. 
 
 Each of the notebooks contains this image
