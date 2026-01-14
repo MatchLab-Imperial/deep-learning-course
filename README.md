@@ -61,4 +61,8 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
 ### Week 8
   * [RL](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/08_RL.ipynb)
 
+### Week 9
+  * [Diffusion](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/09_Diffusion_Model.ipynb)
+  * [YOLO data collection and classification](https://colab.research.google.com/github/MatchLab-Imperial/deep-learning-course/blob/master/10_Roof_Classification_YOLO.ipynb)
+
 
